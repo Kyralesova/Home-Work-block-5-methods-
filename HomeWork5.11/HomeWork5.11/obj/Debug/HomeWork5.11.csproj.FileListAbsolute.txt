@@ -1,0 +1,7 @@
+C:\Users\alex6\OneDrive\Рабочий стол\C#\HomeWork5.11\HomeWork5.11\obj\Debug\HomeWork5.11.csproj.AssemblyReference.cache
+C:\Users\alex6\OneDrive\Рабочий стол\C#\HomeWork5.11\HomeWork5.11\obj\Debug\HomeWork5.11.csproj.CoreCompileInputs.cache
+C:\Users\alex6\OneDrive\Рабочий стол\C#\HomeWork5.11\HomeWork5.11\bin\Debug\HomeWork5.11.exe.config
+C:\Users\alex6\OneDrive\Рабочий стол\C#\HomeWork5.11\HomeWork5.11\bin\Debug\HomeWork5.11.exe
+C:\Users\alex6\OneDrive\Рабочий стол\C#\HomeWork5.11\HomeWork5.11\bin\Debug\HomeWork5.11.pdb
+C:\Users\alex6\OneDrive\Рабочий стол\C#\HomeWork5.11\HomeWork5.11\obj\Debug\HomeWork5.11.exe
+C:\Users\alex6\OneDrive\Рабочий стол\C#\HomeWork5.11\HomeWork5.11\obj\Debug\HomeWork5.11.pdb
